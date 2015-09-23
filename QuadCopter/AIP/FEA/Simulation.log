@@ -1,0 +1,48 @@
+﻿Simulation Simulation:1 started: 23. 9. 2015, 18:17:52
+Number of configurations: 1
+Default mesh: 25691 elements, 48520 nodes
+Mesh at contact 1 is too coarse
+Mesh at contact 9 is too coarse
+Solution time 3s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 23. 9. 2015, 18:18:01
+Total time 0:00:09
+
+Simulation Simulation:1 started: 23. 9. 2015, 18:19:18
+Number of configurations: 1
+Simulation Simulation:1 finished: 23. 9. 2015, 18:19:18
+Total time 0:00:00
+
+Simulation Simulation:1 started: 23. 9. 2015, 18:19:36
+Number of configurations: 1
+Default mesh: 25691 elements, 48520 nodes
+Mesh at contact 1 is too coarse
+Mesh at contact 9 is too coarse
+Solution time 3s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 23. 9. 2015, 18:19:41
+Total time 0:00:05
+
+Simulation Simulation:1 started: 23. 9. 2015, 18:58:12
+Number of configurations: 1
+Default mesh: 25691 elements, 48520 nodes
+Mesh at contact 1 is too coarse
+Mesh at contact 9 is too coarse
+Solution time 3s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 23. 9. 2015, 18:58:17
+Total time 0:00:05
+
+Simulation Simulation:1 started: 23. 9. 2015, 18:58:31
+Number of configurations: 1
+Simulation Simulation:1 finished: 23. 9. 2015, 18:58:31
+Total time 0:00:00
+
+Simulation Simulation:1 started: 23. 9. 2015, 18:59:31
+Number of configurations: 1
+Simulation Simulation:1 finished: 23. 9. 2015, 18:59:31
+Total time 0:00:00
+
